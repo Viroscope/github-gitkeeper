@@ -1,0 +1,10 @@
+requests
+GitPython
+PyGithub
+click
+rich
+textual
+pydantic
+python-dateutil
+tqdm
+cryptography
