@@ -1,0 +1,101 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Settings and Sensitive Data
+settings.db
+*.db
+.key
+*.key
+config.ini
+.env
+.env.local
+
+# Backups (don't commit actual backup data)
+backups/
+*.backup
+*.tar.gz
+*.zip
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary and Junk Files
+=*
+*.orig
+*.rej
+*.patch
+*.diff
+*.backup
+*.tmp
+*.temp
+core.*
+*.core
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+*.lnk
+
+# Package Manager Artifacts
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.coveragerc
+
+# Runtime and Process Files
+*.pid
+*.lock
+*.socket
+.python-version
+
+# Editor Artifacts
+.vscode/settings.json
+.vscode/launch.json
+.idea/workspace.xml
+.idea/tasks.xml
+*.sublime-project
+*.sublime-workspace
+
+/backups
